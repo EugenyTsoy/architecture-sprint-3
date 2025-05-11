@@ -100,9 +100,7 @@
 
 Добавьте сюда диаграмму контекста в модели C4.
 
-```markdown
-[1-01 current-monolite.plantuml](URL)
-```
+[1-01 current-monolite.plantuml](https://github.com/EugenyTsoy/architecture-sprint-3/blob/warmhouse/diagrams/1-01%20current-monolite.plantuml)
 
 # Задание 2. Проектирование микросервисной архитектуры
 
@@ -110,28 +108,20 @@
 
 **Диаграмма контейнеров (Containers)**
 
-```markdown
-[2-01 сontainers.plantuml](URL)
-```
+[2-01 сontainers.plantuml](https://github.com/EugenyTsoy/architecture-sprint-3/blob/warmhouse/diagrams/2-01%20сontainers.plantuml)
+
 
 **Диаграмма компонентов (Components)**
 
-```markdown
-[2-02 сomponents.plantuml](URL)
-```
+[2-02 сomponents.plantuml](https://github.com/EugenyTsoy/architecture-sprint-3/blob/warmhouse/diagrams/2-02%20сomponents.plantuml)
 
 **Диаграмма кода (Code)**
 
-```markdown
-[2-03 code.plantuml](URL)
-```
+[2-03 code.plantuml](https://github.com/EugenyTsoy/architecture-sprint-3/blob/warmhouse/diagrams/2-03%20code.plantuml)
 
 # Задание 3. Разработка ER-диаграммы
 
-```markdown
-[3-01 er.plantuml](URL)
-```
-
+[3-01 er.plantuml](https://github.com/EugenyTsoy/architecture-sprint-3/blob/warmhouse/diagrams/3-01%20er.plantuml)
 
 Четвёртое задание — дополнительное. Его можно сделать по желанию. Чтобы ревьюер быстрее проверил ваше решение, укажите, сделали вы это задание или нет. Для этого оставьте нужный эмодзи около заголовка задания:
 
